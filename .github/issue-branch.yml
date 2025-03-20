@@ -1,2 +1,2 @@
-branchName: "feat/#${issue.number}"
+branchName: "feat/issue-${issue.number}"
 autoCloseIssue: true
